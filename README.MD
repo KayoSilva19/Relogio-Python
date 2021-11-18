@@ -22,7 +22,7 @@
     $ git clone <https://github.com/KayoSilva19/Projeto-Relogio-Python.git>
 
     # Acesse a pasta do projeto no terminal/cmd
-    $ cd Proj_Relogio
+    $ cd Relogio-Python
 
 
 ```
